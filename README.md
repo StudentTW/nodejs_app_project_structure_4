@@ -13,6 +13,8 @@ Node JS Project & Folder Structure
 4.	Create file in dbConnect.js in config
 a.	We move Database connection code to this file 
 
+
+		    //Add this as we require mongoose module to connect with mongodb
 		    var mongoose = require('mongoose');
 
 		    // Declare Monogo DB  URL that we created as per tutorial
