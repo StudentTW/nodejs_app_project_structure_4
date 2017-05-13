@@ -1,0 +1,26 @@
+{
+  "name": "Nodejs_app_project_folder_structure",
+  "version": "0.0.1",
+  "description": "Node JS app  with MongoDB",
+  "author": "StudentTW",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest"
+  },
+  "license": "Free to use"
+}
